@@ -1,0 +1,66 @@
+.header-body{
+background-color:  #264653;
+padding-bottom:80px ;
+
+}
+.bottom-gap{
+    margin-bottom: 150px;
+}
+/* 
+navbar style start */
+.nav-sec{
+    padding: 40px 0 60px 0;
+}
+li a{
+    text-decoration: none;
+}
+li button{
+    margin-left: 50px;
+}
+.btn-style{
+ background-color:  #E76F51;
+ border: 0;
+ border-radius: 10px;
+ height: 40px;
+ width: 95px;
+}
+/* 
+navbar style end */
+.fea-img{
+  margin-bottom: 100px;
+    
+}
+.grey-scl{
+    filter: grayscale(100%); 
+}
+
+/* leatest news */
+.bike{
+    padding: 10px;
+}
+.clients{
+   padding: 50px;
+}
+.trd-client{
+    border-radius: 50% 50%;
+   
+}
+
+/* leatest news end */
+.txt-color{
+    color:#E76F51 ;
+}
+.txt-grey{
+    color: gray;
+}
+/* faq section */
+.accord-gap{
+    margin: 30px;
+}
+/* footer design */
+.footer-design a{
+    text-decoration: none;
+    padding-left: 10px;
+    color: white;
+    font-size: 18px;
+}
